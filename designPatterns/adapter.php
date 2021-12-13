@@ -1,0 +1,1 @@
+//! create a class that we are trying to adapt
